@@ -1,0 +1,12 @@
+.env
+data/
+chroma_db/
+uploads/
+pdfs/
+venv*/
+__pycache__/
+*.pyc
+.deepeval/
+results/
+.pytest_cache/
+chunks_dump.txt

@@ -1,0 +1,11 @@
+unstructured[pdf]
+langchain-text-splitters
+chromadb
+rank-bm25
+sentence-transformers
+openai
+python-dotenv
+streamlit
+deepeval
+pytest
+portalocker[win32]; sys_platform == "win32"

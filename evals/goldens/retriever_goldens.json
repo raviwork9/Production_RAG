@@ -1,0 +1,38 @@
+
+[
+  {
+    "id": "Q06",
+    "question": "What is the difference between an in-bounds ball touching a line and a ball landing outside the court?",
+    "ground_truth": "A ball touching any part of a line is in. Only a ball landing completely outside the boundary is out.",
+    "page": 2,
+    "section": "Lines and In-Play Rules"
+  },
+  {
+    "id": "Q07",
+    "question": "When are players required to change ends, and what are the permitted break durations?",
+    "ground_truth": "Players change ends after the first game and after every odd-numbered game. Changeover breaks are up to 90 seconds, and breaks between sets are 120 seconds.",
+    "page": 2,
+    "section": "Changing Ends and Breaks"
+  },
+  {
+    "id": "Q08",
+    "question": "In doubles, what rules govern serving order, receiving order, and which partner can hit the ball?",
+    "ground_truth": "Each team selects its first server and receiving order for the set, and the order remains fixed throughout the set. Either partner may play any ball, and partners may stand anywhere on their own side.",
+    "page": 2,
+    "section": "Doubles Rules"
+  },
+  {
+    "id": "Q09",
+    "question": "What happens if a player deliberately distracts their opponent during a rally compared with an unintentional distraction?",
+    "ground_truth": "A deliberate distraction results in losing the point. An unintentional distraction means the point is replayed.",
+    "page": 2,
+    "section": "Equipment and Conduct"
+  },
+  {
+    "id": "Q10",
+    "question": "Who has the final authority over factual decisions during a tennis match, and what should players do when making line calls without officials?",
+    "ground_truth": "The chair umpire has the final say on questions of fact. Without officials, players call lines on their own side and must give the benefit of the doubt to their opponent when uncertain.",
+    "page": 2,
+    "section": "Officials and Line Calls"
+  }
+]
